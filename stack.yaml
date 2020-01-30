@@ -1,0 +1,7 @@
+resolver: lts-14.22
+packages:
+- .
+extra-deps:
+- binary-instances-1@sha256:b17565598b8df3241f9b46fa8e3a3368ecc8e3f2eb175d7c28f319042a6f5c79
+- github-0.24@sha256:4bf5a06289d36f78bf347b6a4f9906f659be7335cde78386a6c95568714a730b
+- servant-github-webhook-0.4.2.0@sha256:fbc981cb5479058ef864c1955190944f7d417d563884560fc3b1911447730ffa
